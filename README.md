@@ -1,6 +1,6 @@
-# TiltFix
+# TiltFix-betterGH3
 
-A GH3+/betterGH3 plugin that fixes Star Power over-activating from small
+A betterGH3 plugin that fixes Star Power over-activating from small
 controller jitter, by requiring a tilt to be held for a short window before
 it counts.
 
