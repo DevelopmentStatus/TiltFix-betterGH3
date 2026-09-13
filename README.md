@@ -21,3 +21,7 @@ for `core.dll` is needed.
 3. `build.bat`
 
 This produces `TiltFix.dll` in the `src` folder.
+
+
+betterGH3 vvvvvvvv
+https://www.youtube.com/watch?v=RWRoxHwAM9E
