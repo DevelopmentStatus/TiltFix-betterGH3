@@ -1,0 +1,8 @@
+LIBRARY core.dll
+EXPORTS
+??0QbKey@GH3@@QAE@PBD@Z
+??0Patcher@GH3P@@QAE@UQbKey@GH3@@@Z
+??0Patcher@GH3P@@QAE@ABV01@@Z
+??1Patcher@GH3P@@QAE@XZ
+??4Patcher@GH3P@@QAEAAV01@ABV01@@Z
+?WriteJmp@Patcher@GH3P@@QAE_NPAX0@Z

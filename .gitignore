@@ -1,0 +1,5 @@
+src/*.obj
+src/*.lib
+src/*.exp
+src/*.ilk
+src/*.pdb
